@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.exe
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.deps.json
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.runtimeconfig.json
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.dll
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\bin\Debug\net6.0\FactoryMethod.pdb
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.AssemblyReference.cache
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.AssemblyInfo.cs
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.dll
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\refint\FactoryMethod.dll
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.pdb
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\FactoryMethod.genruntimeconfig.cache
+D:\Hoctap\mauthietke\FactoryMethod\FactoryMethod\obj\Debug\net6.0\ref\FactoryMethod.dll
