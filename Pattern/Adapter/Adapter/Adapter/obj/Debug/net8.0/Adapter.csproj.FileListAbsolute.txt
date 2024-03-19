@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\bin\Debug\net8.0\Adapter.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\bin\Debug\net8.0\Adapter.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\bin\Debug\net8.0\Adapter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\bin\Debug\net8.0\Adapter.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Adapter\Adapter\Adapter\obj\Debug\net8.0\ref\Adapter.dll

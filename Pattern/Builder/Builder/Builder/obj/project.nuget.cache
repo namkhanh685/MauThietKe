@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53JfI1U4EIDOleWJu3SNMDlu3NmC+8nlWG7YNDPWQGR3qbWkdzuPdohogpjdrqhw//G9852wpCC0OyfmJTbLAg==",
+  "dgSpecHash": "QzZlvHW3OWdHbXOXbDhXcKghnYLglrJ+0R2K3Nkyv4e8Vuv6NLoitrnY+9iIP3DAC87lfHNv1zmy9kBTm+5IVQ==",
   "success": true,
-  "projectFilePath": "D:\\Hoctap\\mauthietke\\Builder\\Builder\\Builder\\Builder.csproj",
+  "projectFilePath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

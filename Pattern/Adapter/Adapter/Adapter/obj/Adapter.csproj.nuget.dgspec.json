@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\Builder.csproj": {}
+    "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Adapter\\Adapter\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\Builder.csproj": {
+    "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Adapter\\Adapter\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\Builder.csproj",
-        "projectName": "Builder",
-        "projectPath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\Builder.csproj",
+        "projectUniqueName": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Adapter\\Adapter\\Adapter\\Adapter.csproj",
+        "projectName": "Adapter",
+        "projectPath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Adapter\\Adapter\\Adapter\\Adapter.csproj",
         "packagesPath": "C:\\Users\\trann\\.nuget\\packages\\",
-        "outputPath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Builder\\Builder\\Builder\\obj\\",
+        "outputPath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Adapter\\Adapter\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
