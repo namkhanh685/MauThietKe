@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\bin\Debug\net8.0\Prototype.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\refint\Prototype.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\Prototype.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Prototype\Prototype\Prototype\obj\Debug\net8.0\ref\Prototype.dll
