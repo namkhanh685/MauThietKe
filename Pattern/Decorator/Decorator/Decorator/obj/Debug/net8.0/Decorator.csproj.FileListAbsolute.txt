@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\bin\Debug\net8.0\Decorator.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\bin\Debug\net8.0\Decorator.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\bin\Debug\net8.0\Decorator.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\bin\Debug\net8.0\Decorator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\bin\Debug\net8.0\Decorator.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\refint\Decorator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\Decorator.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Decorator\Decorator\Decorator\obj\Debug\net8.0\ref\Decorator.dll

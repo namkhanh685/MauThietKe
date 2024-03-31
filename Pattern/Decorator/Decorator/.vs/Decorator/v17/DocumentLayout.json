@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Decorator\\Decorator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4535FCC-DF02-4241-AA1E-6A4FF47BB010}|Decorator\\Decorator.csproj|d:\\hoctap\\mauthietke\\mauthietke\\pattern\\decorator\\decorator\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4535FCC-DF02-4241-AA1E-6A4FF47BB010}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Decorator\\Decorator\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "D:\\Hoctap\\mauthietke\\MauThietKe\\Pattern\\Decorator\\Decorator\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAwwEIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:42:21.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
