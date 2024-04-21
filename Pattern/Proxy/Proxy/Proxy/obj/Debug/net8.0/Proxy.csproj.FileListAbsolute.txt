@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\bin\Debug\net8.0\Proxy.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\bin\Debug\net8.0\Proxy.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\bin\Debug\net8.0\Proxy.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\bin\Debug\net8.0\Proxy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\bin\Debug\net8.0\Proxy.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\refint\Proxy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\Proxy.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Proxy\Proxy\Proxy\obj\Debug\net8.0\ref\Proxy.dll

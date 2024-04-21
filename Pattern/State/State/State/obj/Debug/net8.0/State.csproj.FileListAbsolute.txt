@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\bin\Debug\net8.0\State.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\bin\Debug\net8.0\State.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\bin\Debug\net8.0\State.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\bin\Debug\net8.0\State.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\bin\Debug\net8.0\State.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\refint\State.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\State.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\State\State\State\obj\Debug\net8.0\ref\State.dll
