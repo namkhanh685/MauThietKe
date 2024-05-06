@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\bin\Debug\net8.0\Strategy.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\bin\Debug\net8.0\Strategy.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\bin\Debug\net8.0\Strategy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\bin\Debug\net8.0\Strategy.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Strategy\Strategy\Strategy\obj\Debug\net8.0\ref\Strategy.dll

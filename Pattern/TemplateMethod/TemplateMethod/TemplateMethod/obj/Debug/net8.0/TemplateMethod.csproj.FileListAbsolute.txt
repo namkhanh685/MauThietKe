@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\bin\Debug\net8.0\TemplateMethod.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\refint\TemplateMethod.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\TemplateMethod.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\TemplateMethod\TemplateMethod\TemplateMethod\obj\Debug\net8.0\ref\TemplateMethod.dll
