@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\bin\Debug\net8.0\Visitor.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\bin\Debug\net8.0\Visitor.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\bin\Debug\net8.0\Visitor.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\bin\Debug\net8.0\Visitor.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\bin\Debug\net8.0\Visitor.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\refint\Visitor.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\Visitor.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Visitor\Visitor\Visitor\obj\Debug\net8.0\ref\Visitor.dll
