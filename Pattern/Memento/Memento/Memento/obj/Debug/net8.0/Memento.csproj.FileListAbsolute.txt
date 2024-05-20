@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\bin\Debug\net8.0\Memento.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\bin\Debug\net8.0\Memento.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\bin\Debug\net8.0\Memento.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\bin\Debug\net8.0\Memento.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\bin\Debug\net8.0\Memento.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\refint\Memento.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\Memento.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Memento\Memento\Memento\obj\Debug\net8.0\ref\Memento.dll
