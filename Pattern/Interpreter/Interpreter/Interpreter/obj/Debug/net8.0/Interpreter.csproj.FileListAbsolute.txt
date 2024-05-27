@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\bin\Debug\net8.0\Interpreter.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\refint\Interpreter.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\Interpreter.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Interpreter\Interpreter\Interpreter\obj\Debug\net8.0\ref\Interpreter.dll
