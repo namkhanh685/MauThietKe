@@ -1,0 +1,15 @@
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\bin\Debug\net8.0\Iterator.exe
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\bin\Debug\net8.0\Iterator.deps.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\bin\Debug\net8.0\Iterator.runtimeconfig.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\bin\Debug\net8.0\Iterator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\bin\Debug\net8.0\Iterator.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfoInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.AssemblyInfo.cs
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.csproj.CoreCompileInputs.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.sourcelink.json
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\refint\Iterator.dll
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.pdb
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\Iterator.genruntimeconfig.cache
+D:\Hoctap\mauthietke\MauThietKe\Pattern\Iterator\Iterator\Iterator\obj\Debug\net8.0\ref\Iterator.dll
